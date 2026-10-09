@@ -1,0 +1,22 @@
+STEP 1  → Finalize application requirements
+STEP 2  → Design database + ERD
+STEP 3  → Create PostgreSQL schema SQL
+STEP 4  → Create Docker PostgreSQL setup
+STEP 5  → Verify automatic DB initialization
+STEP 6  → Design REST APIs
+STEP 7  → Create REST_API_Design.md
+STEP 8  → Design GraphQL
+STEP 9  → Create GraphQL_Design.md
+STEP 10 → Design gRPC
+STEP 11 → Create gRPC_Design.md
+STEP 12 → Design JWT authentication
+STEP 13 → Create JWT_Design.md
+STEP 14 → Create Postman collection
+STEP 15 → Add Postman tests
+STEP 16 → Add dev/stage/prod environments
+STEP 17 → Create OpenAPI/Swagger
+STEP 18 → Add API versioning strategy
+STEP 19 → Add database indexing strategy
+STEP 20 → Final README
+STEP 21 → Git commits + final push
+STEP 22 → Final senior-requirement checklist
