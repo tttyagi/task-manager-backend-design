@@ -1,0 +1,22 @@
+services:
+  postgres:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    
+    environment:
+      POSTGRES_DB: task_manager
+      POSTGRES_USER: task_manager_user
+      POSTGRES_PASSWORD: task_manager_dev_password
+    
+    ports:
+    - "5434:5432"
+
+    volumes:
+    - task_manager_data:/var/lib/postgresql/data
+
+
+volumes:
+  task_manager_data:
+
+
