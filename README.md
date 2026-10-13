@@ -10,6 +10,9 @@ The project covers:
 - PostgreSQL database design
 - JWT authentication strategy
 - Docker-based PostgreSQL setup
+
+//new changes
+
 - Postman API collection
 - OpenAPI/Swagger specification
 - API versioning strategy
