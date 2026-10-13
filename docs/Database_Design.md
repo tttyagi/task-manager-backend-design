@@ -240,3 +240,5 @@ FAILED
 The ERD shows the tables and their relationships.
 
 ![Task Manager ERD](ERD.png)
+
+//first doc of db
